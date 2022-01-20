@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, escape
 from vsearch import search4letters
 
-print("a")
+print("b")
 
 app = Flask(__name__)
 
